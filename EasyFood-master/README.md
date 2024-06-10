@@ -1,5 +1,3 @@
-# EasyFood
-EasyFood is an app that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
 
 # Preview
 
@@ -16,15 +14,8 @@ EasyFood is an app that makes making food easier and gives you full information 
 ![5](https://user-images.githubusercontent.com/78867217/143778949-deda1f32-feda-4dcc-b45c-c287271c7a70.jpg)
 
 
-# Libraries and technologies used
-- Navigation component : one activity contains multiple fragments instead of creating multiple activites.
-- Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object.
-- Room : Save meals in local database.
-- MVVM & LiveData : Saperate logic code from views and save the state in case the screen configuration changes.
-- Coroutines : do some code in the background.
-- view binding : instead of inflating views manually view binding will take care of that.
-- Glide : Catch images and load them in imageView.
 
 
+![1](https://github.com/keremlevent/Recipe-App/assets/92311846/51a43906-7385-4bfe-9717-42fee3a485b0)
 
 
