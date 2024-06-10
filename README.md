@@ -1,3 +1,7 @@
 Preview
-![1](https://github.com/keremlevent/Recipe-App/assets/92311846/5df012d3-fa12-4abe-bf6d-0f91a8cb6a4d)
-![2](https://github.com/keremlevent/Recipe-App/assets/92311846/43f9486c-1e6b-4e57-a61a-0200a1fca57b)
+
+![image](https://github.com/keremlevent/Recipe-App/assets/92311846/b8b16f15-9756-48b1-8ff1-71460228390c)
+
+![image](https://github.com/keremlevent/Recipe-App/assets/92311846/fbf3763e-fff9-46dd-82df-5e2a3d6d1a94)
+
+
